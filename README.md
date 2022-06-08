@@ -1,5 +1,7 @@
 ## LWC(Lightning Web Components) with VSCode:
+
 ### SFDX : Salesforce Developer Experience (‘SFDX’ or just ‘DX’) is a set of tools designed to improve the traditional developer’s experience of building on the platform. 
+
 ***
 ### LWC vs Aura Components: 
 (https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.get_started_introduction)
@@ -12,6 +14,7 @@
 
 ***
 ### Challenge 1 : Quick Start: Lightning Web Components
+
 https://trailhead.salesforce.com/en/content/learn/projects/quick-start-lightning-web-components?trail_id=force_com_dev_intermediate&trailmix_creator_id=lanfu2&trailmix_slug=lanis-trailmix
 
 ### Project 1: Set Up Your Salesforce DX Environment: 
@@ -73,6 +76,17 @@ This opens your Trailhead Playground in a separate browser.
 From the App Launcher (App Launcher), find and select Sales.
 Click Setup gear then select Edit Page.
 Drag the helloWorld Lightning web component from the Custom area of the Lightning Components list to the top of the Page Canvas. 
+
+*** 
+### Project 3: Create a Hello World Lightning Web Component
+( https://trailhead.salesforce.com/en/content/learn/projects/quick-start-lightning-web-components/create-a-hello-world-lightning-web-component?trail_id=force_com_dev_intermediate&trailmix_creator_id=lanfu2&trailmix_slug=lanis-trailmix)
+#### Follow the above steps 1-5: Create a Salesforce DX Project , Authorize Your Trailhead Playground, Create a Lightning Web Component, deploy to Your Trailhead Playground , Add Component to App in Lightning Experience
+
+***
+### Challenge 2: Quick Start: Visual Studio Code for Salesforce Development
+https://trailhead.salesforce.com/en/content/learn/projects/quickstart-vscode-salesforce?trail_id=force_com_dev_beginner&trailmix_creator_id=lanfu2&trailmix_slug=lanis-trailmix
+
+
 
 
 
