@@ -1,0 +1,12 @@
+C:\Lani\c#projects\IntroLibrary\bin\Debug\net6.0\Introlibrary.deps.json
+C:\Lani\c#projects\IntroLibrary\bin\Debug\net6.0\Introlibrary.dll
+C:\Lani\c#projects\IntroLibrary\bin\Debug\net6.0\Introlibrary.pdb
+C:\Lani\c#projects\IntroLibrary\obj\Debug\net6.0\Introlibrary.csproj.AssemblyReference.cache
+C:\Lani\c#projects\IntroLibrary\obj\Debug\net6.0\Introlibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lani\c#projects\IntroLibrary\obj\Debug\net6.0\Introlibrary.AssemblyInfoInputs.cache
+C:\Lani\c#projects\IntroLibrary\obj\Debug\net6.0\Introlibrary.AssemblyInfo.cs
+C:\Lani\c#projects\IntroLibrary\obj\Debug\net6.0\Introlibrary.csproj.CoreCompileInputs.cache
+C:\Lani\c#projects\IntroLibrary\obj\Debug\net6.0\Introlibrary.dll
+C:\Lani\c#projects\IntroLibrary\obj\Debug\net6.0\refint\Introlibrary.dll
+C:\Lani\c#projects\IntroLibrary\obj\Debug\net6.0\Introlibrary.pdb
+C:\Lani\c#projects\IntroLibrary\obj\Debug\net6.0\ref\Introlibrary.dll
